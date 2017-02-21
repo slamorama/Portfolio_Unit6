@@ -1,8 +1,10 @@
     header {
       text-align: center;
-      background: url("images/banner.jpg");
+      background: url("https://static.pexels.com/photos/23966/pexels-photo-23966.jpg");
       background-size: cover;
       color: white;
+    height: 500px;
+    width: 400;
     }
     .nav {
       color: white;
