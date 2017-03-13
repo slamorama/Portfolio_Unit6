@@ -1,16 +1,19 @@
     header {
       text-align: center;
-      background: url("https://static.pexels.com/photos/23966/pexels-photo-23966.jpg");
-      background-size: cover;
+      background: url("https://upload.wikimedia.org/wikipedia/commons/e/ee/Womens_March_on_Washington.jpg");
+      background-size: contain;
       color: white;
-    height: 500px;
-    width: 400;
+    height: 1200px;
+    width: 1400;
     }
     .nav {
       color: white;
     }
     h1 {
       font-size: 70px;
+    }
+    h2 {
+      font-family: "Georgia", serif;
     }
     img {
       margin: 40px 0px 0px 0px;
